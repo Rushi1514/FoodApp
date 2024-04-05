@@ -1,4 +1,4 @@
-# Healthy Meal Recipe App 
+# Food Suggestion App 
 
 A Flutter project.
 
